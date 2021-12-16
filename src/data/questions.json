@@ -1,0 +1,49 @@
+{
+    "data": [
+      {
+        "question": "What is the capital of USA ?",
+        "choices": ["New York", "Seatle", "Silicon Valley", "Washington"],
+        "answer": "Washington"
+      },
+      {
+        "question": "Who is fastest person in the world ?",
+        "choices": ["Ronaldo", "Huseyn Bold", "Bale", "Mane"],
+        "answer": "Huseyn Bold"
+      },
+      {
+        "question": "What is the main reosurce for a life ?",
+        "choices": ["sand", "water", "juice", "money"],
+        "answer": "water"
+      },
+      {
+        "question": "What is the capital of Serbia ?",
+        "choices": ["Belgrade", "Novi Sad", "Niš", "Subotica"],
+        "answer": "Belgrade"
+      },
+      {
+        "question": "Who is the best football player",
+        "choices": ["Salah", "Levandovski", "Messi", "Ronaldo"],
+        "answer": "Messi"
+      },
+      {
+        "question": "How much ocean has in the world?",
+        "choices": ["4", "3", "5", "1"],
+        "answer": "4"
+      },
+      {
+        "question": "What is the deepest depth in the world ?",
+        "choices": ["Marakana", "San marina", "Gersogavina", "Poprad"],
+        "answer": "San marina"
+      },
+      {
+        "question": "Who is the richest person in the world ?",
+        "choices": ["Elon Musk", "Bill Gates", "Jeff Bezos", "Mark Zuckerburg"],
+        "answer": "Elon Musk"
+      },
+      {
+        "question": "What is the capital of Germany ?",
+        "choices": ["Wolfsburg", "Munich", "Berlin", "Frankfurt"],
+        "answer": "Berlin"
+      }
+    ]
+  }
